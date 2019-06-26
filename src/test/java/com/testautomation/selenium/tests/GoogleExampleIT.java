@@ -1,7 +1,7 @@
-package com.lazerycode.selenium.tests;
+package com.testautomation.selenium.tests;
 
-import com.lazerycode.selenium.DriverBase;
-import com.lazerycode.selenium.page_objects.GoogleHomePage;
+import com.testautomation.selenium.DriverBase;
+import com.testautomation.selenium.pageobjects.GoogleHomePage;
 
 import static org.testng.Assert.assertEquals;
 

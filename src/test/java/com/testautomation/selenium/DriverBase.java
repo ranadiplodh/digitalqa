@@ -1,7 +1,8 @@
-package com.lazerycode.selenium;
+package com.testautomation.selenium;
 
-import com.lazerycode.selenium.config.DriverFactory;
-import com.lazerycode.selenium.listeners.ScreenshotListener;
+import com.testautomation.config.DriverFactory;
+import com.testautomation.listeners.ScreenshotListener;
+
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;

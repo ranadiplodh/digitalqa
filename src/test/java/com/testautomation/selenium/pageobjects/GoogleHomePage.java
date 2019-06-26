@@ -1,7 +1,8 @@
-package com.lazerycode.selenium.page_objects;
+package com.testautomation.selenium.pageobjects;
 
-import com.lazerycode.selenium.DriverBase;
 import com.lazerycode.selenium.util.Query;
+import com.testautomation.selenium.DriverBase;
+
 import org.openqa.selenium.By;
 
 import static com.lazerycode.selenium.util.AssignDriver.initQueryObjects;
